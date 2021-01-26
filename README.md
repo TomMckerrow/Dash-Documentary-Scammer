@@ -30,11 +30,11 @@ Personally, we started to get concerning feedback after a number of their abroad
 
 It was at this point we started to question the people we had allowed allocated a significant amount of budget to.
 
-And then in mid-June of 2019 everything went silent, we noticed that the YouTube channel hosting the original DASH Poker Tournament video had changed its name to "OracleFilmsUncensored" and now operated on a new branded YouTube URI https://www.youtube.com/c/OracleFilmsUncensored
+And then in mid-June of 2019 everything went silent, we noticed that the YouTube channel hosting the original DASH Poker Tournament video had changed its name to "OracleFilmsUncensored" and now operated on a new branded YouTube URI; https://www.youtube.com/c/OracleFilmsUncensored
 
 After some investigation, it turns out this is a company run by Tom's chief of production Liam Turner which still operates today at; https://www.oraclefilms.com/ it is a company that seems to mostly be involved in the production of videos for the CryptoNites YouTube channel; https://www.youtube.com/channel/UCNSkZw-VE23ew71bkZwqF7w
 
-I think the real kick in the teeth was when we discovered just three months after the radio silence that Tom had been reselling the video content that he had been filming as part of our treasury agreement to produce a documentary about primarily DASH as well as other cryptocurrencies to https://bloxlive.tv as you can see in one video here https://bloxlive.tv/video/MTE1Ng==/brock-pierce-on-the-past-present-and-future-of-the-crypto-space
+I think the real kick in the teeth was when we discovered just three months after the radio silence that Tom had been reselling the video content that he had been filming as part of our treasury agreement to produce a documentary about primarily DASH as well as other cryptocurrencies to https://bloxlive.tv as you can see in one video here; https://bloxlive.tv/video/MTE1Ng==/brock-pierce-on-the-past-present-and-future-of-the-crypto-space
 
 By all means, we certainly feel like Tom Mckerrow fleeced us and that much of the budget we gave him went vastly unaccounted for.
 
