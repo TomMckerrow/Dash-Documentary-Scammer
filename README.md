@@ -3,7 +3,7 @@
 ### In this document, I describe the details that transpired concerning the theft of 60,000 GBP from the DASH Treasury by Tom Mckerrow from Bristol, UK.
 
 --------------------
-[Download the short video version here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)
+<center>[Download the short video version here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)</center>
 --------------------
 ORIGINAL FORUM THREAD (now deleted)
 --------------------
