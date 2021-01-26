@@ -116,16 +116,13 @@ His budget breakdown on the DASH documentary was a total fabrication to cover up
 https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/
 
 This was a straight-up lie, they paid no deposit and managed to haggle the rent down, it was not 1,800 per month, I heard 1,600 thrown around a few times but I doubt it was even near that. There were no agency fee's because Tom already knew Mr Wolf prior, this is just tom packing out the budget to cover his abuse of the funding:
-> Quote
 > £5,900 office budget - We are hiring more staff than we originally planned, this is because the rise in the value of Dash has allowed us to bring more people on. We have to get a bigger office to accommodate them, which is located in a well-connected area of Bristol. The rent is £1,800 per month, with a 2-month deposit upfront, plus agency fees of £500. The Room is in a converted tax office which we think will add an interesting intro to the dialog, making a documentary about the future of money in an office that used to house an institute of old money, we like it anyway.
 
 Three staff? Liam, Phil, and Rachael? Seo expert? This was a total lie, they spent some money for a website to be made but it was truly awful. Maybe that Cryptocurrency expert was meant to be me, they never paid me a penny, I did try to help them for free but Rachael annihilated me early on so that she could maintain power over Tom. I took a step back and just watched them tank the project while maintaining a friendship with them all, once every few weeks I would pop by, usually when Rachael was not in the office. I assume the accounting expert was "Frog" the friend I mentioned prior who did their accounts in Excel for free. Also not paid a penny:
-> Quote
 > £11,000 Staff Budget – Our costs are £3,000 per month, for the three key members. We have also brought on a temporary SEO expert for consultancy for our website, a Cryptocurrency expert who is helping us make sure we can maximize conversions and also keep the money safe.
 > An accountant is absolutely necessary for dealing with this amount of money, especially once it is converted into Fiat, and we have hired one this month to start keeping our books.
 
 Obviously, anyone who saw their website, it was garbage, loaded slow the entire time 5-8 seconds for a page load, I was told by Tom they paid 3,000 GBP for it, they got ripped off there. It was made and no further development was done:
-> Quote
 > £7,000-£10,000 – The development and maintenance of the documentary website, an article website for current news, and a comprehensive blog to accommodate all forms of updates on the documentary. This also includes the cost of web-hosting. This isn’t to be spent in a single session, but rather over the course of the next few months.
 
 First archive.org of their website on the 15th of March 2018:
@@ -137,7 +134,6 @@ https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/
 Spot the difference.
 
 This was obviously never spent, there was no insurance and no footage backup:
-> Quote
 > £2,000 – Insurance. This is the big essential, we want to make sure that if anything happens to equipment or footage, that the insurance covers replacement and the ability to reshoot (God forbid). As well as travel insurances, public liability and employee insurance.
 
 PAT testing lol, no pat stickers on anything, utter lies, they did get premium membership on Linkedin to which is all Tom did every day, to be honest, playing a game of mass adding random contacts who would never speak to him or do business with him.
