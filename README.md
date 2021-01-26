@@ -126,8 +126,10 @@ Obviously, anyone who saw their website, it was garbage, loaded slow the entire 
 > £7,000-£10,000 – The development and maintenance of the documentary website, an article website for current news, and a comprehensive blog to accommodate all forms of updates on the documentary. This also includes the cost of web-hosting. This isn’t to be spent in a single session, but rather over the course of the next few months.
 
 **Archive.org backups of their original website:**
+
 15th of March 2018: https://web.archive.org/web/20180315173214/http://beyondbitcoinfilm.com/
 18th of January 2019: https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/
+
 **Spot the difference.**
 
 This was obviously never spent, there was no insurance and no footage backup:
