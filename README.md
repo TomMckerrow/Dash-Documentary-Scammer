@@ -125,12 +125,10 @@ Three staff? Liam, Phil, and Rachael? Seo expert? This was a total lie, they spe
 Obviously, anyone who saw their website, it was garbage, loaded slow the entire time 5-8 seconds for a page load, I was told by Tom they paid 3,000 GBP for it, they got ripped off there. It was made and no further development was done:
 > £7,000-£10,000 – The development and maintenance of the documentary website, an article website for current news, and a comprehensive blog to accommodate all forms of updates on the documentary. This also includes the cost of web-hosting. This isn’t to be spent in a single session, but rather over the course of the next few months.
 
-**Archive.org backups of their original website:**
-
-15th of March 2018: https://web.archive.org/web/20180315173214/http://beyondbitcoinfilm.com/
-18th of January 2019: https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/
-
-**Spot the difference.**
+**Archive.org backups of their original website:**<br>
+15th of March 2018: https://web.archive.org/web/20180315173214/http://beyondbitcoinfilm.com/<br>
+18th of January 2019: https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/<br>
+**Spot the difference.**<br>
 
 This was obviously never spent, there was no insurance and no footage backup:
 > £2,000 – Insurance. This is the big essential, we want to make sure that if anything happens to equipment or footage, that the insurance covers replacement and the ability to reshoot (God forbid). As well as travel insurances, public liability and employee insurance.
