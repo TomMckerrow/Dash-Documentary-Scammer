@@ -7,24 +7,24 @@
 --------------------
 ORIGINAL FORUM THREAD (now deleted)
 --------------------
-Tom Mckerrow of Bristol, UK (https://uk.linkedin.com/in/tommckerrow) and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
+Tom Mckerrow of Bristol, UK *(https://uk.linkedin.com/in/tommckerrow)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
 In the beginning, Tom seemed to uphold a professional front, but only one year later it would seem that any work on the documentary had mysteriously vanished and all of the accounts associated with the project went dead.
 
 What started as a proposal for a documentary called "Dash Documentary" on the Nov 5, 2017, would evolve into "Beyond Bitcoin" by the 1st of February 2018 and finally "The Trust Protocol" around the 13th of May 2019 as detailed in this very revealing video interview of Tom by CoinScheduleTV; https://www.youtube.com/watch?v=zhl1QU10zCg
 
-The Original proposal:
+**The Original proposal:**<br>
 https://www.pdf-archive.com/2017/11/04/dash-documentary-proposal/dash-documentary-proposal.pdf
 
-Original documentary update thread:
-https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/ (towards the end of the thread and to be honest even early on you can clearly see how confidence in Tom who we believe operated the forum account dropped dramatically)
+**Original documentary update thread:**<br>
+https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/ *(towards the end of the thread and to be honest even early on you can clearly see how confidence in Tom who we believe operated the forum account dropped dramatically)*
 
-Original treasury proposal:
-https://www.dashtreasury.org/p-3075.prop
+**Original treasury proposal:**<br>
+https://www.dashtreasury.org/p-3075.prop *(now a dead link)*
 
 As mentioned prior things seemed to start well, albeit a little slow, one of the first short pieces of film they produced for us was for the DASH Poker Tournament in Portland Meadows, Oregon; https://www.youtube.com/watch?v=0WKe3DtQ7j4
 
-The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner (https://uk.linkedin.com/in/liturn) (who operating as the chief production manager at the time, filming and editing much of the content) travel to many conventions worldwide for on our behalf.
+The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner *(https://uk.linkedin.com/in/liturn) (who operating as the chief production manager at the time, filming and editing much of the content)* travel to many conventions worldwide for on our behalf.
 
 Personally, we started to get concerning feedback after a number of their abroad stints where a few individuals reported that Tom Mckerrow had been using cocaine, in what seemed to be a fairly frequent manner, that a few individuals reported strange conversations with him when he appeared to be high on drugs concerning topics about Aleister Crowley and black magic, and jokes being overheard among him which were of a concerning pedophilic nature. A few higher status members at a few conventions he attended reported that they had suspicions he had been inappropriately filming them on his phone camera without their knowledge and that it had made them feel uncomfortable. This really is just a fragment of the feedback we received which we found deeply concerning.
 
@@ -38,18 +38,18 @@ I think the real kick in the teeth was when we discovered just three months afte
 
 By all means, we certainly feel like Tom Mckerrow fleeced us and that much of the budget we gave him went vastly unaccounted for.
 
-Various links once operated by Tom Mckerrow and his team:
-https://www.apollo.io/people/Tom/McKerrow/54a5c3077468693442a804a6
-https://www.linkedin.com/company/beyond-bitcoin-film
-https://www.facebook.com/beyondbitcoinfilm/
-https://www.instagram.com/beyondbitcoinfilm/
-http://beyondbitcoinfilm.com
-http://dogandbird.io
-https://twitter.com/dogandbirdmedia
-https://twitter.com/bitcoin_film
-https://twitter.com/infin8mindst8
-https://www.bristolpost.co.uk/news/bristol-news/mr-wolfs-first-accept-bitcoin-2102741
-https://medium.com/@beyondbitcoinfilm
+**Various links once operated by Tom Mckerrow and his team:**<br>
+https://www.apollo.io/people/Tom/McKerrow/54a5c3077468693442a804a6<br>
+https://www.linkedin.com/company/beyond-bitcoin-film<br>
+https://www.facebook.com/beyondbitcoinfilm/<br>
+https://www.instagram.com/beyondbitcoinfilm/<br>
+http://beyondbitcoinfilm.com<br>
+http://dogandbird.io<br>
+https://twitter.com/dogandbirdmedia<br>
+https://twitter.com/bitcoin_film<br>
+https://twitter.com/infin8mindst8<br>
+https://www.bristolpost.co.uk/news/bristol-news/mr-wolfs-first-accept-bitcoin-2102741<br>
+https://medium.com/@beyondbitcoinfilm<br>
 
 --------------------
 RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
@@ -64,17 +64,17 @@ This is when Tom Mckerrow decided to steal the entire project funding and essent
 
 While Tom was taking advantage of Nick, Liam was taking advantage of Tom. Liam is no part of this is innocent, in fact, he is the person who eventually out of spite made sure the footage they had filmed for the documentary would never see the light of day, apart from a few videos Tom had personally backed-up.
 
-They did work with nick for a while and I think they paid nick some salary but it was not long until they completely kicked him off the project, and disregarded any footage he had filmed claiming it was "all blurry and out of focus", here is a photo of Nick when he went to visit Dan Hughes of RadixDLT for the dash documentary:
-https://twitter.com/fuserleer/status/996851218243883008/photo/1
-Nick is sitting on the bench while his friend Thomas is operating the camera.
+They did work with nick for a while and I think they paid nick some salary but it was not long until they completely kicked him off the project, and disregarded any footage he had filmed claiming it was "all blurry and out of focus", here is a photo of Nick when he went to visit Dan Hughes of RadixDLT for the dash documentary:<br>
+https://twitter.com/fuserleer/status/996851218243883008/photo/1<br>
+*Nick is sitting on the bench while his friend Thomas is operating the camera.*
 
 Once Nick had been kicked off the project there was some dispute about paying him back the original 50 DASH investment which Tom and Liam eventually resentfully paid back to him.
 
 Let me stress how Tom and Liam scammed Nick out of his project and it's funding.
 
-It was shortly after this that they employed Phillip Wiseman (personal friend of Liam) and a woman called Rachael Hall, all three of the boys can be pictured here:
-https://i2-prod.bristolpost.co.uk/incoming/article2106251.ece/ALTERNATES/s810/1_JS165350701.jpg
-(Tom on the left, Phillip in the middle, Liam on the right)
+It was shortly after this that they employed Phillip Wiseman (personal friend of Liam) and a woman called Rachael Hall, all three of the boys can be pictured here:<br>
+https://i2-prod.bristolpost.co.uk/incoming/article2106251.ece/ALTERNATES/s810/1_JS165350701.jpg<br>
+*Tom on the left, Phillip in the middle, Liam on the right.*
 
 There are not many photos of Rachael remaining because Tom fell out with her and he erased any evidence of her from all social media, although originally she was a core part of the team and in many of the photographs they took.
 
@@ -112,7 +112,7 @@ I'm just saying, I knew this guy for quite a while and it's all true, he was alw
 
 When he got the budget the first thing Tom Mckerrow did was spend thousands of pounds of it decking his home out with multiple massive 4k TV screens, audio systems, etc, it was the most retarded thing I had ever seen, yet he neglected to replace his broken old sofa which he forced his guests to sit on.
 
-His budget breakdown on the DASH documentary was a total fabrication to cover up his excess spending on himself;
+His budget breakdown on the DASH documentary was a total fabrication to cover up his excess spending on himself;<br>
 https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/
 
 This was a straight-up lie, they paid no deposit and managed to haggle the rent down, it was not 1,800 per month, I heard 1,600 thrown around a few times but I doubt it was even near that. There were no agency fee's because Tom already knew Mr Wolf prior, this is just tom packing out the budget to cover his abuse of the funding:
