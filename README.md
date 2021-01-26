@@ -3,6 +3,8 @@
 ### In this document, I describe the details that transpired concerning the theft of 60,000 GBP from the DASH Treasury by Tom Mckerrow from Bristol, UK.
 
 --------------------
+(Download the short video version here)[https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true]
+--------------------
 ORIGINAL FORUM THREAD (now deleted)
 --------------------
 Tom Mckerrow of Bristol, UK https://uk.linkedin.com/in/tommckerrow and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
