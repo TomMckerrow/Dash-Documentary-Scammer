@@ -7,7 +7,7 @@
 --------------------
 ORIGINAL FORUM THREAD (now deleted)
 --------------------
-Tom Mckerrow of Bristol, UK https://uk.linkedin.com/in/tommckerrow and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
+Tom Mckerrow of Bristol, UK (https://uk.linkedin.com/in/tommckerrow) and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
 In the beginning, Tom seemed to uphold a professional front, but only one year later it would seem that any work on the documentary had mysteriously vanished and all of the accounts associated with the project went dead.
 
@@ -24,7 +24,7 @@ https://www.dashtreasury.org/p-3075.prop
 
 As mentioned prior things seemed to start well, albeit a little slow, one of the first short pieces of film they produced for us was for the DASH Poker Tournament in Portland Meadows, Oregon; https://www.youtube.com/watch?v=0WKe3DtQ7j4
 
-The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner https://uk.linkedin.com/in/liturn (who operating as the chief production manager at the time, filming and editing much of the content) travel to many conventions worldwide for on our behalf.
+The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner (https://uk.linkedin.com/in/liturn) (who operating as the chief production manager at the time, filming and editing much of the content) travel to many conventions worldwide for on our behalf.
 
 Personally, we started to get concerning feedback after a number of their abroad stints where a few individuals reported that Tom Mckerrow had been using cocaine, in what seemed to be a fairly frequent manner, that a few individuals reported strange conversations with him when he appeared to be high on drugs concerning topics about Aleister Crowley and black magic, and jokes being overheard among him which were of a concerning pedophilic nature. A few higher status members at a few conventions he attended reported that they had suspicions he had been inappropriately filming them on his phone camera without their knowledge and that it had made them feel uncomfortable. This really is just a fragment of the feedback we received which we found deeply concerning.
 
