@@ -136,5 +136,5 @@ This was obviously never spent, there was no insurance and no footage backup:
 PAT testing lol, no pat stickers on anything, utter lies, they did get premium membership on Linkedin to which is all Tom did every day, to be honest, playing a game of mass adding random contacts who would never speak to him or do business with him.
 > £4,000 – Stock footage licensing, domain purchase, online premium membership (Vimeo, Linkedin), software licensing and plugins, PAT Testing equipment,
 
-It's all just total fabricated manure. Tom Mckerrow is not the kind of person who should be trusted with a large budget he is a child and suffers from a terrible drug addiction.
+It's all just total fabricated manure. Tom Mckerrow is not the kind of person who should be trusted with a large budget he is a child and suffers from a terrible cocaine addiction.
 
